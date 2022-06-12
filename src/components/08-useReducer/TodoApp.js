@@ -56,7 +56,7 @@ export const TodoApp = () => {
             <h1> ToDo App ({ toDos.length })</h1> <hr/>
 
             <div key={1} className="row">
-                <div className="col-7">
+                <div className="col-12 col-sm-7 p-0 p-sm-3">
 
                     <TodoList 
                         toDos={ toDos } 
@@ -65,7 +65,7 @@ export const TodoApp = () => {
                     />
 
                 </div >
-                <div  className="col-5">
+                <div  className="col-12 col-sm-5 p-0">
                     < AddTodo handleAddToDo={handleAddToDo}/>
                 </div>
             </div>
