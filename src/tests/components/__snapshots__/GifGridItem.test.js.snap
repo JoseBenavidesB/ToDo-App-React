@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test <GifGridItem/> should <GifGridItem/> correctly 1`] = `
+<div
+  className="card animate__animated animate__headShake"
+>
+  <img
+    alt="This is a test"
+    src="https://localhost.com"
+  />
+  <p>
+     
+    This is a test
+     
+  </p>
+</div>
+`;

@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test <GifGrid/> should return <GifGrid/> perfectly 1`] = `
+<Fragment>
+  <h3>
+    One punch
+  </h3>
+  <p>
+    Loading...
+  </p>
+  <div
+    className="group"
+  />
+</Fragment>
+`;
+
+exports[`Test <GifGrid/> should show items when load img with useFetchGifs 1`] = `
+<Fragment>
+  <h3>
+    One punch
+  </h3>
+  <div
+    className="group"
+  >
+    <GifGridItem
+      id="ABC"
+      key="ABC"
+      title="Test title"
+      url="https://localhost.com"
+    />
+  </div>
+</Fragment>
+`;

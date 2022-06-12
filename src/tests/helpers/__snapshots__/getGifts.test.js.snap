@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test <getGifts/> should return <getGifts/> correctly 1`] = `<getGifts />`;
