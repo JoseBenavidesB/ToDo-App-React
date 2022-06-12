@@ -2,6 +2,9 @@
 
 Used Technologies: React and Bootstrap
 
+### GitHub Page:
+`https://josebenavidesb.github.io/ToDo-App-React/`
+
 This project was bootstrapped with [Create React App].
 
 ## Screenshot of what this app looks like
